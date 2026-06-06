@@ -1,0 +1,2 @@
+# FaceScope-Zodiac-Sign-Prediction-from-Facial-Features
+An experimental Python computer vision project that analyzes facial similarity among celebrities and attempts to predict a person's zodiac sign based solely on facial features. The model is trained on celebrity face datasets grouped by birth sign and uses image similarity techniques to find visual patterns associated with each zodiac category.
