@@ -5,12 +5,12 @@ An experimental Python computer vision project that analyzes facial similarity a
 
 Using a dataset of celebrity faces labeled by zodiac sign, the project:
 
-Collects celebrity images and birth dates
-Automatically assigns zodiac signs from birthdays
-Detects and crops faces
-Extracts facial representations using OpenCV
-Compares facial similarity across zodiac groups
-Predicts which zodiac sign a new face most closely resembles
+Collects celebrity images and birth dates.
+Automatically assigns zodiac signs from birthdays.
+Detects and crops faces.
+Extracts facial representations using OpenCV.
+Compares facial similarity across zodiac groups.
+Predicts which zodiac sign a new face most closely resembles.
 
 Rather than attempting to validate astrology, FaceScope investigates whether a facial similarity model can identify visual patterns within groups of people who share the same zodiac sign.
 
